@@ -1,7 +1,7 @@
 package com.cote;
 
 /**
- *  최소공배수
+ *  최소공배수 문제
  */
 class Solution {
     public int solution(int[] arr) {
