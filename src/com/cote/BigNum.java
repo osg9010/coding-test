@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Comparator;
 public class BigNum {
 
-
     static class Solution {
         public String solution(int[] numbers) {
             // 정수 배열을 문자열 배열로 변환
