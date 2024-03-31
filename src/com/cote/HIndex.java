@@ -24,7 +24,7 @@ public class HIndex {
     public static void main(String[] args) {
 
         Solution so = new Solution();
-        int solution = so.solution(new int[]{ 1,2,3,4,7,20,30,40,50});
+        int solution = so.solution(new int[]{ 7,7,7,7,7,7,7,7});
         System.out.println(solution);
     }
 }
