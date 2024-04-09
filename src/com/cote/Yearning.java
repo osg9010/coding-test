@@ -28,6 +28,9 @@ public class Yearning {
 
     public static void main(String[] args) {
         Solution so = new Solution();
-        System.out.println(so.solution(new String[]{"may", "kein", "kain", "radi"},new int[]{5,10,1,3},new String[][]{{"may", "kein", "kain", "radi"},{"may", "kein", "brin", "deny"}}));
+        int[] solution = so.solution(new String[]{"may", "kein", "kain", "radi"}, new int[]{5, 10, 1, 3}, new String[][]{{"may", "kein", "kain", "radi"}, {"may", "kein", "brin", "deny"}});
+        for(int a : solution){
+            System.out.println(a);
+        }
     }
 }
