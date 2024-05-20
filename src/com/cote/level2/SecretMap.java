@@ -1,4 +1,4 @@
-package com.cote;
+package com.cote.level2;
 
 public class SecretMap {
     static class Solution {

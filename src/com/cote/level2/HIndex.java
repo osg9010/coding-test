@@ -1,4 +1,4 @@
-package com.cote;
+package com.cote.level2;
 
 import java.util.Arrays;
 

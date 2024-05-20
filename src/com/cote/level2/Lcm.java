@@ -1,4 +1,4 @@
-package com.cote;
+package com.cote.level2;
 
 /**
  *  최소공배수 문제
