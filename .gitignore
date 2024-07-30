@@ -6,6 +6,6 @@
 .idea
 *.iml
 .gradle
-out
+/out/
 gen
 *.class
