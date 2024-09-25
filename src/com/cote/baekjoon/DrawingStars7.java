@@ -2,7 +2,7 @@ package com.cote.baekjoon;
 
 import java.util.Scanner;
 
-public class DrawingStarts7 {
+public class DrawingStars7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
