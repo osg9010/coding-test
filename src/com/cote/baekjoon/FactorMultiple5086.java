@@ -2,7 +2,7 @@ package com.cote.baekjoon;
 
 import java.util.Scanner;
 
-public class FactorMultipe5086 {
+public class FactorMultiple5086 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         while (true){
