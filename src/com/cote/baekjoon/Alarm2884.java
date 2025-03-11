@@ -12,9 +12,13 @@ public class Alarm2884 {
             b = b-45;
             System.out.print(a + " " + b);
         }else{
-            if(a == 0){
+            if(a >= 1){
+                a--;
+                b+=15;
+                System.out.print(a + " " + b);
+            }else{
                 a = 23;
-                b = b+15;
+                b += 15;
                 System.out.print(a + " " + b);
             }
         }
