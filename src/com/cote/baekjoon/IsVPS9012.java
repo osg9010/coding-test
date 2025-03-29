@@ -10,7 +10,7 @@ public class IsVPS9012 {
         in.nextLine();
         Stack<Integer> strings = new Stack<>();
         for (int i = 0; i < a; i++) {
-            String string = in.nextLine();
+            String string = in.next();
             strings.clear();
             for (int j = 0; j < string.length(); j++) {
                 char c = string.charAt(j);
@@ -27,6 +27,8 @@ public class IsVPS9012 {
                 if(j==string.length()-1){
                     if(strings.empty()){
                         System.out.println("YES");
+                    }else{
+                        System.out.println("NO");
                     }
                 }
             }
